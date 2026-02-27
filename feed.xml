@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Arte y Comunicacion Mauricio</title>
-    <link href="https://github.com/MauricioEstupinan/Arte-y-comunicacion-/feed.xml" rel="self" />
-    <link href="https://github.com/MauricioEstupinan/Arte-y-comunicacion-" />
+    <link href="https://github.com/mauricioestupinan/Arte-y-comunicacion-/feed.xml" rel="self" />
+    <link href="https://github.com/mauricioestupinan/Arte-y-comunicacion-" />
     <updated>2026-02-23T21:09:52-05:00</updated>
     <author>
         <name>Mauricio Estupiñan</name>
     </author>
-    <id>https://github.com/MauricioEstupinan/Arte-y-comunicacion-</id>
+    <id>https://github.com/mauricioestupinan/Arte-y-comunicacion-</id>
 
     <entry>
         <title>Composición Inkscape</title>
         <author>
             <name>Mauricio Estupiñan</name>
         </author>
-        <link href="https://github.com/MauricioEstupinan/Arte-y-comunicacion-/composicion-inkscape/"/>
-        <id>https://github.com/MauricioEstupinan/Arte-y-comunicacion-/composicion-inkscape/</id>
+        <link href="https://github.com/mauricioestupinan/Arte-y-comunicacion-/composicion-inkscape/"/>
+        <id>https://github.com/mauricioestupinan/Arte-y-comunicacion-/composicion-inkscape/</id>
 
         <updated>2026-02-23T19:28:40-05:00</updated>
             <summary type="html">
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://github.com/MauricioEstupinan/Arte-y-comunicacion-/media/posts/3/ComposicionMEV.png" alt="" width="1209" height="801" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/MauricioEstupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-xs.png 640w ,https://github.com/MauricioEstupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-sm.png 768w ,https://github.com/MauricioEstupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-md.png 1024w ,https://github.com/MauricioEstupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-lg.png 1366w ,https://github.com/MauricioEstupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-xl.png 1600w ,https://github.com/MauricioEstupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-2xl.png 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://github.com/mauricioestupinan/Arte-y-comunicacion-/media/posts/3/ComposicionMEV.png" alt="" width="1209" height="801" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/mauricioestupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-xs.png 640w ,https://github.com/mauricioestupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-sm.png 768w ,https://github.com/mauricioestupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-md.png 1024w ,https://github.com/mauricioestupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-lg.png 1366w ,https://github.com/mauricioestupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-xl.png 1600w ,https://github.com/mauricioestupinan/Arte-y-comunicacion-/media/posts/3/responsive/ComposicionMEV-2xl.png 1920w"></figure>
 <p>Esta composicon la hice basado en mi gusto y obsesión por las montañas. Me inspire mucho en el alto de las cuchillas, ubicado a unas horas de Bogota, en Guasca, Cundianamarca, donde las formaciones montañosas en pico parecn varias cuchillas una encima de otra y su vía principal llena de curvas y hermosos paisajes.  </p>
 <figure class="post__image"><img loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure>
             ]]>
@@ -36,8 +36,8 @@
         <author>
             <name>Mauricio Estupiñan</name>
         </author>
-        <link href="https://github.com/MauricioEstupinan/Arte-y-comunicacion-/sobre-mi/"/>
-        <id>https://github.com/MauricioEstupinan/Arte-y-comunicacion-/sobre-mi/</id>
+        <link href="https://github.com/mauricioestupinan/Arte-y-comunicacion-/sobre-mi/"/>
+        <id>https://github.com/mauricioestupinan/Arte-y-comunicacion-/sobre-mi/</id>
 
         <updated>2026-02-09T09:17:12-05:00</updated>
             <summary type="html">
