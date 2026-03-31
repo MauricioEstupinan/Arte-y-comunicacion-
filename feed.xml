@@ -3,12 +3,35 @@
     <title>Arte y Comunicacion Mauricio</title>
     <link href="https://MauricioEstupinan.github.io/Arte-y-comunicacion-/feed.xml" rel="self" />
     <link href="https://MauricioEstupinan.github.io/Arte-y-comunicacion-" />
-    <updated>2026-02-27T14:43:58-05:00</updated>
+    <updated>2026-03-31T11:27:26-05:00</updated>
     <author>
         <name>Mauricio Estupiñan</name>
     </author>
     <id>https://MauricioEstupinan.github.io/Arte-y-comunicacion-</id>
 
+    <entry>
+        <title>Composición Sonora</title>
+        <author>
+            <name>Mauricio Estupiñan</name>
+        </author>
+        <link href="https://MauricioEstupinan.github.io/Arte-y-comunicacion-/composicion-sonora/"/>
+        <id>https://MauricioEstupinan.github.io/Arte-y-comunicacion-/composicion-sonora/</id>
+
+        <updated>2026-03-31T11:27:26-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    NO PUDE SUBIR EL AUDIO COMO CODIGO. NO SE ENTIENDE BIEN EN EL TUTORIAL. https://soundcloud.com/user-3413863/entregaayc Ahi esta mi entrega
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>NO PUDE SUBIR EL AUDIO COMO CODIGO. NO SE ENTIENDE BIEN EN EL TUTORIAL. </p>
+<p> </p>
+<p><a href="https://soundcloud.com/user-3413863/entregaayc">https://soundcloud.com/user-3413863/entregaayc</a> </p>
+<p>Ahi esta mi entrega</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición Inkscape</title>
         <author>

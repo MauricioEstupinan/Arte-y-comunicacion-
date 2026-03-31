@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://MauricioEstupinan.github.io/Arte-y-comunicacion-/composicion-sonora/",
+            "url": "https://MauricioEstupinan.github.io/Arte-y-comunicacion-/composicion-sonora/",
+            "title": "Composición Sonora",
+            "summary": "NO PUDE SUBIR EL AUDIO COMO CODIGO. NO SE ENTIENDE BIEN EN EL TUTORIAL. https://soundcloud.com/user-3413863/entregaayc Ahi esta mi entrega",
+            "content_html": "<p>NO PUDE SUBIR EL AUDIO COMO CODIGO. NO SE ENTIENDE BIEN EN EL TUTORIAL. </p>\n<p> </p>\n<p><a href=\"https://soundcloud.com/user-3413863/entregaayc\">https://soundcloud.com/user-3413863/entregaayc</a> </p>\n<p>Ahi esta mi entrega</p>",
+            "author": {
+                "name": "Mauricio Estupiñan"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-31T11:27:26-05:00",
+            "date_modified": "2026-03-31T11:27:26-05:00"
+        },
+        {
             "id": "https://MauricioEstupinan.github.io/Arte-y-comunicacion-/composicion-inkscape/",
             "url": "https://MauricioEstupinan.github.io/Arte-y-comunicacion-/composicion-inkscape/",
             "title": "Composición Inkscape",
